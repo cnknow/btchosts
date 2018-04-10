@@ -1,4 +1,4 @@
-# hosts file for btc exchange
+# hosts file for btc exchange v0.2
 
 hosts files  for you to visit an exchange without ss.
 
@@ -6,7 +6,7 @@ download the btchosts.exe and execute it.
 
 download links below:
 
-https://github.com/cnknow/btchosts/releases/download/v0.1/btchosts.exe
+https://github.com/cnknow/btchosts/releases/download/v0.2/btchosts.exe
 
 now we support the following exchanges:
 
