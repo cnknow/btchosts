@@ -21,9 +21,9 @@ Support Exchanges
 -------
 
 1. <a href="https://www.huobipro.com/zh-cn/" target="_blank" >huobi.pro(huobipro.com)</a>
-2. <a href="https://www.bitmex.com/" target="_blank" >bitmex.com</a>
+2. <a href="https://bitmex.com" target="_blank" >bitmex.com</a>
 3. <a href="https://testnet.bitmex.com" target="_blank" >testnet.bitmex.com</a>
-4. <a href="https://www.binance.com/?ref=28702951" target="_blank" >binance.com</a>
+4. <a href="https://www.binance.com/tradeDetail.html" target="_blank" >binance.com</a>
 5. <a href="https://okex.com" target="_blank" >okex.com</a>
 
 
