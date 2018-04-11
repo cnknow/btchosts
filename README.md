@@ -6,7 +6,7 @@ https://github.com/cnknow/btchosts
 What is btchosts?
 ----------------
 
-btchosts is a tool hosts file to visit exchanges without ss.
+btchosts is a tool to visit exchanges without ss.
 
 For more information, as well as an immediately useable, binary version of
 the btchosts, see <a href="https://github.com/cnknow/btchosts/releases/download/v0.2/btchosts.exe">btchosts.exe</a>, or see all version
