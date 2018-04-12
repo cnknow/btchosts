@@ -36,6 +36,10 @@ func GetAddress() string {
 47.90.111.60 okex.com
 47.90.111.60 www.okex.com
 
+104.16.175.181 bitfinex.com
+104.16.175.181 www.bitfinex.com
+104.16.175.181 api.bitfinex.com
+
 #DO NOT REMOVE THIS TAG
 #BTC HOSTS END
 `
