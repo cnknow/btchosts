@@ -9,7 +9,7 @@ What is btchosts?
 btchosts is a tool to visit exchanges without ss.
 
 For more information, as well as an immediately useable, binary version of
-the btchosts, see <a href="https://github.com/cnknow/btchosts/releases/download/v0.2/btchosts.exe">btchosts.exe</a>, or see all version
+the btchosts, see <a href="https://github.com/cnknow/btchosts/releases/download/v0.3/btchosts.exe">btchosts.exe</a>, or see all version
 https://github.com/cnknow/btchosts/releases
 
 Testing
@@ -30,4 +30,4 @@ Support Exchanges
 
 Latest version
 -------
-The latest update time is 2018-4-10
+The latest update time is 2018-4-12 16:30:02
