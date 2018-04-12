@@ -25,6 +25,7 @@ Support Exchanges
 3. <a href="https://testnet.bitmex.com" target="_blank" >testnet.bitmex.com</a>
 4. <a href="https://www.binance.com/tradeDetail.html" target="_blank" >binance.com</a>
 5. <a href="https://okex.com" target="_blank" >okex.com</a>
+6. <a href="https://bitfinex.com" target="_blank" >bitfinex.com</a>
 
 
 Latest version
