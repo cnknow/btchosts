@@ -31,4 +31,4 @@ Support Exchanges
 
 Latest version
 -------
-The latest update time is 2018-4-12 16:30:02
+The latest update time is 2018-4-22 19:28:00
