@@ -40,6 +40,10 @@ func GetAddress() string {
 104.16.175.181 www.bitfinex.com
 104.16.175.181 api.bitfinex.com
 
+104.16.6.5 coolcoin.com
+104.16.6.5 www.coolcoin.com
+104.16.6.5 ws.coolcoin.com
+
 #DO NOT REMOVE THIS TAG
 #BTC HOSTS END
 `

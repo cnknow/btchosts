@@ -26,6 +26,7 @@ Support Exchanges
 4. <s><a href="https://www.binance.com/tradeDetail.html" target="_blank" >binance.com</a></s>(Repairing)
 5. <s><a href="https://okex.com" target="_blank" >okex.com</a></s>(Repairing)
 6. <a href="https://bitfinex.com" target="_blank" >bitfinex.com</a>
+6. <a href="https://www.coolcoin.com/?lang=zh_CN" target="_blank" >coolcoin.com</a>
 
 
 Latest version
