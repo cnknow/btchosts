@@ -27,8 +27,8 @@ Support Exchanges
 5. <a href="https://okex.com" target="_blank" >okex.com</a>
 6. <a href="https://bitfinex.com" target="_blank" >bitfinex.com</a>
 7. <a href="https://www.coolcoin.com/user/register?invite_code=bgghff" target="_blank" >coolcoin.com</a>
-8. <a href="https://vip.zb.com/activity/joinbtc?tuijianid=84db7b27f208e02b7fa6f981f89feced" target="_blank" ><s>zb.com</s></a>
-9. <a href="https://gate.io" target="_blank" >gate.io</a>
+8. <a href="https://vip.zb.com/activity/joinbtc?tuijianid=84db7b27f208e02b7fa6f981f89feced" target="_blank" >zb.com</a>
+9. <a href="https://gate.io" target="_blank" ><s>gate.io</s></a>
 
 
 Latest version
