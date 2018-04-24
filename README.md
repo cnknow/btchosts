@@ -20,13 +20,13 @@ We just tested on windows, so it will not support other platforms, such as <s>IO
 Support Exchanges
 -------
 
-1. <a href="https://www.huobipro.com/zh-cn/" target="_blank" >huobi.pro(huobipro.com)</a>
-2. <a href="https://bitmex.com" target="_blank" >bitmex.com</a>
+1. <a href="https://www.huobipro.com/zh-cn/topic/invited/?invite_code=is733" target="_blank" >huobi.pro(huobipro.com)</a>
+2. <a href="https://www.bitmex.com/register/K3HFQz" target="_blank" >bitmex.com</a>
 3. <a href="https://testnet.bitmex.com" target="_blank" >testnet.bitmex.com</a>
-4. <a href="https://www.binance.com/tradeDetail.html" target="_blank" >binance.com</a>
+4. <a href="https://www.binance.com/?ref=28702951" target="_blank" >binance.com</a>
 5. <a href="https://okex.com" target="_blank" >okex.com</a>
 6. <a href="https://bitfinex.com" target="_blank" >bitfinex.com</a>
-6. <a href="https://www.coolcoin.com/?lang=zh_CN" target="_blank" >coolcoin.com</a>
+6. <a href="https://www.coolcoin.com/user/register?invite_code=bgghff" target="_blank" >coolcoin.com</a>
 
 
 Latest version
