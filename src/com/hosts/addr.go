@@ -44,6 +44,12 @@ func GetAddress() string {
 104.16.6.5 www.coolcoin.com
 104.16.6.5 ws.coolcoin.com
 
+203.90.247.102 zb.com
+203.90.247.88 www.zb.com
+203.90.247.88 s.zb.com
+203.90.247.86 vip.zb.com
+203.90.247.86 trans.zb.com
+
 #DO NOT REMOVE THIS TAG
 #BTC HOSTS END
 `
