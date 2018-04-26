@@ -19,8 +19,8 @@ func GetAddress() string {
 52.222.238.28 static.bitmex.com
 178.62.14.205 sentry.bitmex.com
 
-54.194.91.30 testnet.bitmex.com
-54.230.74.95 testnet-static.bitmex.com
+52.18.126.155 testnet.bitmex.com
+13.32.80.55 testnet-static.bitmex.com
 178.62.14.205 sentry.bitmex.com
 
 54.230.159.30 binance.com
