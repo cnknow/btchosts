@@ -1,8 +1,8 @@
 package main
 
 import (
-	"com/hosts"
 	"fmt"
+	"btchosts/hosts"
 )
 
 func main() {
