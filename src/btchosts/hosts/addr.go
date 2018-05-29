@@ -13,6 +13,7 @@ func GetAddress() string {
 54.65.137.35 www.huobi.com
 104.20.206.64 www.huobipro.com
 104.20.207.64 api.huobipro.com
+104.20.206.64 otc.huobipro.com
 
 54.72.28.246 bitmex.com
 54.72.28.246 www.bitmex.com
